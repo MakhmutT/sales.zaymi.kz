@@ -75,7 +75,7 @@ require("config.php");
         <div class="flex items-center justify-between">
           <!-- Logo -->
           <div>
-            <a class="block py-4 text-lg font-medium text-primary-normal" href="#"><?=$page_name;?></a>
+            <a href="zaymi.kz" class="block py-4 text-lg font-medium text-primary-normal" href="#"><?=$page_name;?></a>
           </div>
         </div>
       </div>

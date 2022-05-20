@@ -1,7 +1,7 @@
 <?php
 //config page
 $language="ru"; //landing page primary language
-$page_name="localhost:3000"; //landing page name
+$page_name="Zaymi.kz"; //landing page name
 $title="Микрокредиты онлайн 0,01%"; //title tag
 $description=""; //meta description tag (not necessary)
 $offer_example_title="Реквизиты и примеры расчетов займов наших партнёров";
